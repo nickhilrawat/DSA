@@ -1,3 +1,5 @@
+package coin_change;
+
 public class CoinChangeRecursion{
     static void main() {
         int amount = 5;
